@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**Carlos7275/Carlos7275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hey 👋, I'm Carlos Fernando Sandoval Lizárraga!
 
 Glad to see you here!   
