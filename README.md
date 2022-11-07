@@ -9,7 +9,7 @@ Joined Github **2** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with NextJS, Angular, Postgresql, <br /> Python and C, etc.
+- 🛠 &nbsp; I’m currently working with NestJS, Angular, Postgresql, <br /> Python and C, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 📫 &nbsp; How to reach me: sandovallizarragacarlos@gmail.com | carlos_72_75@hotmail.com.
 
@@ -35,7 +35,7 @@ Joined Github **2** years ago.
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 11</li>
+  	    <li><b>OS:</b> Windows 10</li>
 	    <li><b>Laptop: </b> Dell Latitude 3550 (i5)</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
