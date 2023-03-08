@@ -39,8 +39,6 @@ Joined Github **2** years ago.
 	    <li><b>Laptop: </b> Dell Latitude 3550 (i5)</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-
-	    <br />
 		</ul>
 	
 </details>
