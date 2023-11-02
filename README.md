@@ -9,7 +9,7 @@ Joined Github **3** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel, Angular, Postgresql, <br /> Python , Flutter, etc.
+- 🛠 &nbsp; I’m currently working with Laravel, Angular, C#, MySQL <br /> Python , Flutter, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 📫 &nbsp; How to reach me: sandovallizarragacarlos@gmail.com | carlos_72_75@hotmail.com.
 
