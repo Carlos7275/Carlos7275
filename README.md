@@ -1,12 +1,12 @@
 ## Hey 👋, I'm [Carlos Sandoval!](https://github.com/Carlos7275/)
 
-I'm a **Fullstack Developer** with **5 years of experience in Git**. I’m passionate about both **Backend** and **Frontend Development**, and I love building end-to-end solutions that bring ideas to life 🌱. With a focus on scalability, performance, and user experience, I work on building well-structured, efficient applications 💻.
+I'm a **Fullstack Developer**. I’m passionate about both **Backend** and **Frontend Development**, and I love building end-to-end solutions that bring ideas to life 🌱. With a focus on scalability, performance, and user experience, I work on building well-structured, efficient applications 💻.
 
 ---
 
 ### **What I’m currently up to:**
 
-- 🛠 &nbsp; **Tech Stack**: NestJS, Angular 19, CodeIgniter 4, Golang, MySQL, PostgreSQL, Redis, Node.js, Flutter, and more.
+- 🛠 &nbsp; **Tech Stack**: NestJS, Angular 18, CodeIgniter 4, Golang, MySQL, PostgreSQL, Redis, Node.js, Flutter, **.NET Core**, **C#**, **Laravel**, and more.
 - 🚀 &nbsp; **Learning**: Full Stack Development, improving both Backend and Frontend skills.
 - 📫 &nbsp; **Reach Me**: sandovallizarragacarlos@gmail.com | carlos_72_75@hotmail.com.
 
@@ -31,10 +31,9 @@ I'm a **Fullstack Developer** with **5 years of experience in Git**. I’m passi
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></code>
 
 ---
-
-### ⚙️ **My Tools for Getting Things Done:**
-- **Version Control**: Git, GitHub
-- **Containerization**: Docker
